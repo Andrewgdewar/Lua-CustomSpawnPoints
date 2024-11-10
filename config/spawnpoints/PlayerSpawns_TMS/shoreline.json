@@ -1,0 +1,139 @@
+{
+	"SpawnZone Available List": "ZoneSanatorium1, ZoneSanatorium2, ZoneIsland, ZoneGasStation, ZoneMeteoStation, ZonePowerStation, ZoneBusStation, ZoneRailWays, ZonePort, ZoneBunkeSniper, ZonePowerStationSniper, ZoneForestTruck, ZoneForestSpawn, ZoneForestGasStation, ZoneGreenHouses, ZoneStartVillage, ZoneBunker, ZonePassFar, ZoneTunnel, ZonePassClose",
+	"Infiltration Available List": "Riverside, Village",
+
+	"ZoneSanatorium1": [
+{
+  "Comment": "p2 lighthouse",
+  "Position": [
+    439.866333,
+    -57.80872,
+    -205.556152
+  ],
+  "Rotation": 305.0951,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Village",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "dead end",
+  "Position": [
+    465.224762,
+    -53.3371468,
+    202.534348
+  ],
+    "Rotation": 305.0951,
+    "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Village",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "tunnel",
+  "Position": [
+    381.4718,
+    -59.7101059,
+    312.428253
+  ],
+  "Rotation": 266.029358,
+   "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Village",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "railway bridge",
+  "Position": [
+    -1025.40613,
+    -60.67289,
+    309.654968
+  ],
+  "Rotation": 70.58995,
+   "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Riverside",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "road to custom",
+  "Position": [
+    -851.1072,
+    -42.4251976,
+    5.40089846
+  ],
+  "Rotation": 37.20273,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Riverside",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "north fence",
+  "Position": [
+    -502.552551,
+    -9.793554,
+    -391.939362
+  ],
+  "Rotation": 15.2780867,
+   "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Riverside",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "nortwest fence",
+  "Position": [
+    17.4551144,
+    -13.7805872,
+    -386.147217
+  ],
+  "Rotation": 12.4349632,
+   "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Village",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+}
+]
+}

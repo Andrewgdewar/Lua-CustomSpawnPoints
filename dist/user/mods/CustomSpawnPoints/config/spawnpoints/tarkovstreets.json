@@ -1,0 +1,67 @@
+{
+	"SpawnZone Available List": "ZoneSW01, ZoneConstruction, ZoneCarShowroom, ZoneCinema, ZoneFactory, ZoneHotel_1, ZoneHotel_2, ZoneConcordia_1, ZoneConcordiaParking, ZoneSnipeCinema, ZoneSnipeCarShowroom, ZoneSnipeBuilding, ZoneSnipeSW01, ZoneClimova, ZoneMvd, ZoneSW00, ZoneCard1, ZoneStilo, ZoneColumn, ZoneSnipeStilo, ZoneSnipeCard",
+	"Infiltration Available List": "E6_1, E3_4, E1_2, E5_6, E4_5, E2_3",
+
+	"ZoneSW01": [
+	],
+
+	"ZoneConstruction": [
+	],
+
+	"ZoneCarShowroom": [
+	],
+
+	"ZoneCinema": [
+	],
+
+	"ZoneFactory": [
+	],
+
+	"ZoneHotel_1": [
+	],
+
+	"ZoneHotel_2": [
+	],
+
+	"ZoneConcordia_1": [
+	],
+
+	"ZoneConcordiaParking": [
+	],
+
+	"ZoneSnipeCinema": [
+	],
+
+	"ZoneSnipeCarShowroom": [
+	],
+
+	"ZoneSnipeBuilding": [
+	],
+
+	"ZoneSnipeSW01": [
+	],
+
+	"ZoneClimova": [
+	],
+
+	"ZoneMvd": [
+	],
+
+	"ZoneSW00": [
+	],
+
+	"ZoneCard1": [
+	],
+
+	"ZoneStilo": [
+	],
+
+	"ZoneColumn": [
+	],
+
+	"ZoneSnipeStilo": [
+	],
+
+	"ZoneSnipeCard": [
+	]
+}

@@ -1,0 +1,140 @@
+{
+    "SpawnZone Available List": "BotZoneFloor1, BotZoneFloor2, BotZoneBasement, BotZoneGate2, BotZoneGate1",
+    "Infiltration Available List": "Common",
+
+    "BotZoneFloor1": [
+
+{
+  "Comment": "laboratory",
+  "Position": [
+    -280.1351,
+    -3.997379,
+    -352.6994
+  ],
+  "Rotation": 87.00137,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "laboratory",
+  "Position": [
+    -281.755737,
+    0.0292119365,
+    -337.941376
+  ],
+  "Rotation": 88.0323257,
+   "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "laboratory",
+  "Position": [
+    -118.615555,
+    -0.0002997772,
+    -250.525864
+  ],
+  "Rotation": 177.363235,
+   "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "laboratory",
+  "Position": [
+    -120.407089,
+    -0.000296242535,
+    -280.132751
+  ],
+  "Rotation": 1.18792558,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "laboratory",
+  "Position": [
+    -114.912109,
+    0.008892309,
+    -345.255859
+  ],
+  "Rotation": 280.9729,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "laboratory",
+  "Position": [
+    -169.2592,
+    0.0601613559,
+    -422.0103
+  ],
+  "Rotation": 358.7598,
+    "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "laboratory",
+  "Position": [
+    -112.931961,
+    4.11523771,
+    -345.97113
+  ],
+  "Rotation": 272.674957,
+   "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+}
+]
+}

@@ -1,0 +1,177 @@
+{
+	"SpawnZone Available List": "ZoneCenter, ZoneCenterBot, ZoneOLI, ZoneIDEA, ZoneRoad, ZoneIDEAPark, ZoneGoshan, ZonePowerStation, ZoneTrucks, ZoneOLIPark",
+	"Infiltration Available List": "MallSE, MallNW",
+
+	"ZoneRoad": [	
+{
+  "Comment": "car",
+  "Position": [
+    -249.219376,
+    21.3254375,
+    -367.069641
+  ],
+  "Rotation": 83.49855,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallNW",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "hole",
+  "Position": [
+    -223.766388,
+    21.3254375,
+    -40.74291
+  ],
+  "Rotation": 45.5866623,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallSE",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "safe",
+  "Position": [
+    -51.43405,
+    21.3254585,
+    46.2449951
+  ],
+  "Rotation": 56.89088,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallSE",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "emercom",
+  "Position": [
+    -323.304077,
+    21.3254337,
+    272.6761
+  ],
+  "Rotation": 157.0958,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallSE",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "barricade sw",
+  "Position": [
+    273.0079,
+    21.3254356,
+    392.968628
+  ],
+  "Rotation": 142.994965,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallSE",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "scav camp",
+  "Position": [
+    283.406067,
+    21.32544,
+    -23.490818
+  ],
+  "Rotation": 192.598953,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallNW",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "railway nw",
+  "Position": [
+    468.5531,
+    18.66784,
+    -435.249146
+  ],
+  "Rotation": 355.108551,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallNW",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "north slope",
+  "Position": [
+    66.94942,
+    23.875515,
+    -420.190674
+  ],
+  "Rotation": 350.62677,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallNW",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "w railway",
+  "Position": [
+    366.242157,
+    17.996376,
+    -123.234344
+  ],
+  "Rotation": 169.290588,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "MallNW",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+}
+]
+}

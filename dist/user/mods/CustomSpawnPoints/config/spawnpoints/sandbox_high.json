@@ -1,0 +1,46 @@
+{
+	"SpawnZone Available List": "ZoneSW00, ZoneCarShowroom, ZoneStilo, ZoneSnipeStilo, ZoneCard1, ZoneSnipeCard, ZoneHotel_1, ZoneSnipeBuilding, ZoneSnipeSW01, ZoneSW01, ZoneConstruction, ZoneHotel_2, ZoneConcordia_1, ZoneSandbox",
+	"Infiltration Available List": "west, east",
+
+	"ZoneSW00": [
+	],
+
+	"ZoneCarShowroom": [
+	],
+
+	"ZoneStilo": [
+	],
+
+	"ZoneSnipeStilo": [
+	],
+
+	"ZoneCard1": [
+	],
+
+	"ZoneSnipeCard": [
+	],
+
+	"ZoneHotel_1": [
+	],
+
+	"ZoneSnipeBuilding": [
+	],
+
+	"ZoneSnipeSW01": [
+	],
+
+	"ZoneSW01": [
+	],
+
+	"ZoneConstruction": [
+	],
+
+	"ZoneHotel_2": [
+	],
+
+	"ZoneConcordia_1": [
+	],
+
+	"ZoneSandbox": [
+	]
+}

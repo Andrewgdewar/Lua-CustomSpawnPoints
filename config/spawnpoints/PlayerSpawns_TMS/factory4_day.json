@@ -1,0 +1,82 @@
+{
+  "SpawnZone Available List": "BotZone",
+  "Infiltration Available List": "Factory",
+
+  "BotZone": [
+    {
+      "Comment": "gate 0",
+      "Position": [-53.3330536, 1.27075839, 58.0244141],
+      "Rotation": 87.9526443,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Factory",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+    {
+      "Comment": "med gate",
+      "Position": [-19.0416431, 0.191809282, -48.69016],
+      "Rotation": 357.99054,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Factory",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "gate y",
+      "Position": [46.9695549, 0.06256109, -42.5469971],
+      "Rotation": 357.6605,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Factory",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "gate x",
+      "Position": [72.49536, 0.12743251, -64.1990051],
+      "Rotation": 36.2467461,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Factory",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "cellars",
+      "Position": [65.87563, -2.63322926, -30.4980354],
+      "Rotation": 135.875427,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Factory",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "gate 3",
+      "Position": [60.4336166, 0.240446642, 65.16226],
+      "Rotation": 204.818726,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Factory",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "gate z",
+      "Position": [-35.7692642, 0.217370316, 9.731799],
+      "Rotation": 128.655212,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Factory",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    }
+  ]
+}

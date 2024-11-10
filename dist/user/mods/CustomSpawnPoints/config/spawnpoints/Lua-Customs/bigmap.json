@@ -1,0 +1,1157 @@
+{
+	"SpawnZone Available List": "ZoneBrige, ZoneCrossRoad, ZoneDormitory, ZoneGasStation, ZoneFactoryCenter, ZoneFactorySide, ZoneOldAZS, ZoneSnipeBrige, ZoneSnipeTower, ZoneSnipeFactory, ZoneBlockPost, ZoneBlockPostSniper, ZoneBlockPostSniper3, ZoneTankSquare, ZoneWade, ZoneScavBase",
+	"Infiltration Available List": "Boiler Tanks, Customs",
+
+	"ZoneDormitory": [
+		{
+			"Comment": "Droms 3 Story 3rd floor (Marked Room)",
+			"Position": [172.8572, 5.831357, 184.2216],
+			"Rotation": 94.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [185.1229, 5.831592, 183.3053],
+			"Rotation": 274.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [175.6775, 5.829252, 171.7348],
+			"Rotation": 15.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [181.5476, 5.831593, 170.2819],
+			"Rotation": 296.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [167.6536, 5.851074, 147.4637],
+			"Rotation": 95.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [180.7871, 5.8316, 146.2056],
+			"Rotation": 107.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [171.3139, 5.831597, 153.2655],
+			"Rotation": 90.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [169.7917, 5.831599, 150.8099],
+			"Rotation": 102.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [179.6257, 5.831597, 155.0168],
+			"Rotation": 315.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [182.9531, 5.918808, 168.4557],
+			"Rotation": 272.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [171.1994, 5.830253, 169.286],
+			"Rotation": 95.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [184.4651, 5.831577, 177.281],
+			"Rotation": 275.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [195.6875, 5.831519, 182.0411],
+			"Rotation": 212.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [195.7828, 5.83152, 171.244],
+			"Rotation": 182.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [191.5413, 5.831519, 170.6605],
+			"Rotation": 183.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [173.5317, 2.831593, 180.9069],
+			"Rotation": 84.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [197.1001, 2.833356, 169.5515],
+			"Rotation": 205.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [196.7482, 2.831599, 179.1945],
+			"Rotation": 179.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [194.4668, 2.831596, 181.7955],
+			"Rotation": 195.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [192.421, 2.831658, 179.4385],
+			"Rotation": 229.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [186.7767, 2.831999, 170.0224],
+			"Rotation": 182.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [188.753, 2.831596, 182.9886],
+			"Rotation": 4.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [182.8228, 2.831599, 183.9374],
+			"Rotation": 358.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [176.791, 4.403019, 187.7258],
+			"Rotation": 355.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [182.942, 2.831597, 168.136],
+			"Rotation": 271.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [182.2516, 2.831597, 158.8555],
+			"Rotation": 124.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [182.1864, 2.831597, 155.2572],
+			"Rotation": 117.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [178.963, 2.831602, 145.293],
+			"Rotation": 278.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [169.8771, 2.831997, 146.3838],
+			"Rotation": 77.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [170.407, -0.1679999, 149.6681],
+			"Rotation": 19.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [181.7989, -0.1680002, 152.7246],
+			"Rotation": 110.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [171.5965, -0.1692027, 152.4981],
+			"Rotation": 79.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [181.2311, -0.1680014, 156.1964],
+			"Rotation": 107.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [181.2771, -0.1682011, 167.4744],
+			"Rotation": 310.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [170.1996, -0.1675459, 162.5348],
+			"Rotation": 91.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [170.3941, -0.1675467, 166.3687],
+			"Rotation": 130.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [171.9311, -0.1675475, 169.6212],
+			"Rotation": 262.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [175.5473, -0.1763472, 171.3386],
+			"Rotation": 6.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [171.64, -0.1763469, 172.9293],
+			"Rotation": 76.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [171.9236, -0.1763481, 175.5501],
+			"Rotation": 95.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [175.101, -0.1763481, 175.378],
+			"Rotation": 137.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [187.385, -0.1700029, 181.8719],
+			"Rotation": 181.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [187.1348, -0.1682015, 171.2955],
+			"Rotation": 11.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [190.1696, -0.1700019, 170.5492],
+			"Rotation": 191.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [191.792, -0.1682015, 181.4709],
+			"Rotation": 198.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [194.2358, -0.1700028, 179.9818],
+			"Rotation": 180.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [197.4557, -0.1682016, 179.2138],
+			"Rotation": 199.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [196.9812, -0.1666434, 169.4566],
+			"Rotation": 208.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [197.1749, -0.1684244, 175.8027],
+			"Rotation": 265.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [233.6269, 2.871356, 129.1359],
+			"Rotation": 278.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [221.668, 2.871599, 129.9241],
+			"Rotation": 303.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [228.193, 2.871566, 128.7006],
+			"Rotation": 4.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [233.6933, 2.871999, 132.3788],
+			"Rotation": 264.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [222.152, 2.958779, 132.47],
+			"Rotation": 300.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [222.6609, 2.871601, 136.358],
+			"Rotation": 294.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [223.7576, 2.871597, 139.3275],
+			"Rotation": 290.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [225.1002, 2.871597, 142.5842],
+			"Rotation": 89.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [226.9343, 2.871599, 144.6279],
+			"Rotation": 97.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [224.9463, 2.8716, 148.5552],
+			"Rotation": 285.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [237.5626, 2.870253, 150.002],
+			"Rotation": 280.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [225.7218, 2.871997, 151.9494],
+			"Rotation": 281.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [236.9495, 2.871597, 153.9446],
+			"Rotation": 259.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [226.0988, 2.869252, 156.8742],
+			"Rotation": 279.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [227.9791, 2.869253, 154.3256],
+			"Rotation": 58.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [236.4208, 2.871599, 156.2921],
+			"Rotation": 288.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [225.4512, 3.093567, 160.5778],
+			"Rotation": 87.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [238.2556, 2.871597, 159.3006],
+			"Rotation": 280.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [227.9596, 2.871597, 163.2562],
+			"Rotation": 81.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [238.7623, 2.871599, 163.0883],
+			"Rotation": 276.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [238.821, 2.871556, 166.4681],
+			"Rotation": 269.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [226.8025, 2.895131, 167.5988],
+			"Rotation": 264.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [642.1177, 0.3344409, 127.3127],
+			"Rotation": 153.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [223.6991, -0.128402, 139.5355],
+			"Rotation": 293.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [224.8824, -0.1284012, 148.8705],
+			"Rotation": 280.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [237.4093, -0.1295466, 146.9389],
+			"Rotation": 280.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [236.6627, -0.1295469, 150.3137],
+			"Rotation": 94.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [225.6979, -0.128, 151.0447],
+			"Rotation": 79.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [225.6444, -0.1303472, 154.317],
+			"Rotation": 76.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [227.8211, 0.117884, 158.6585],
+			"Rotation": 132.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [238.7458, -0.1284226, 157.2891],
+			"Rotation": 244.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [237.8187, -0.1284224, 153.6661],
+			"Rotation": 284.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [238.7389, -0.128401, 162.024],
+			"Rotation": 332.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [227.2507, -0.1284031, 164.8233],
+			"Rotation": 258.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [228.7488, -0.1280012, 168.0878],
+			"Rotation": 134.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [223.5402, -0.07187297, 133.2995],
+			"Rotation": 276.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [233.8779, -0.1284008, 132.7102],
+			"Rotation": 124.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [233.3745, -0.1284445, 129.3231],
+			"Rotation": 254.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [222.8215, -0.1284011, 130.2679],
+			"Rotation": 275.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [228.9027, -0.1284209, 135.0778],
+			"Rotation": 140.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [156.974, -1.663756, 215.1489],
+			"Rotation": 154.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [164.3553, -1.053314, 185.3595],
+			"Rotation": 187.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [198.1932, -1.819686, 198.0303],
+			"Rotation": 125.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [229.8671, 0.3028773, 199.0877],
+			"Rotation": 214.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [260.0435, 2.178381, 183.6725],
+			"Rotation": 204.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [295.8927, 6.558476, 169.666],
+			"Rotation": 213.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [327.1139, 5.946219, 154.541],
+			"Rotation": 204.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [333.2999, 5.388577, 129.6486],
+			"Rotation": 186.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [321.6796, 8.737248, 102.6467],
+			"Rotation": 161.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [289.1788, 1.229498, 85.86252],
+			"Rotation": 238.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [245.9711, 1.923543, 99.69546],
+			"Rotation": 224.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [238.8156, -0.6784066, 87.68184],
+			"Rotation": 135.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [200.6469, -3.354775, 81.53226],
+			"Rotation": 188.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [203.0736, -3.110803, 71.9002],
+			"Rotation": 259.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [158.3984, -1.164088, 127.3318],
+			"Rotation": 81.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [129.6171, -2.26843, 164.4121],
+			"Rotation": 124.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [102.9923, -3.14734, 165.1716],
+			"Rotation": 139.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [78.4247, -3.473752, 141.4958],
+			"Rotation": 120.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [96.30482, 0.8262097, 121.752],
+			"Rotation": 113.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [109.9833, 5.732484, 90.54694],
+			"Rotation": 112.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [165.9681, -2.078131, 81.09336],
+			"Rotation": 41.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [203.4084, -0.8515735, 155.8362],
+			"Rotation": 217.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [229.2161, -0.7138053, 175.1906],
+			"Rotation": 188.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [215.8805, -0.7353266, 157.5516],
+			"Rotation": 239.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [198.7909, -0.6774133, 129.498],
+			"Rotation": 351.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [233.8596, 2.861203, 169.3768],
+			"Rotation": 183.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		}
+	]
+}

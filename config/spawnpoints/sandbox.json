@@ -1,0 +1,13 @@
+{
+	"SpawnZone Available List": "ZoneSW00, ZoneSandbox, ZoneSandSnipeCenter",
+	"Infiltration Available List": "west, east",
+
+	"ZoneSW00": [
+	],
+
+	"ZoneSandbox": [
+	],
+
+	"ZoneSandSnipeCenter": [
+	]
+}

@@ -1,0 +1,273 @@
+{
+	"SpawnZone Available List": "ZoneBrige, ZoneCrossRoad, ZoneDormitory, ZoneGasStation, ZoneFactoryCenter, ZoneFactorySide, ZoneOldAZS, ZoneSnipeBrige, ZoneSnipeTower, ZoneSnipeFactory, ZoneBlockPost, ZoneBlockPostSniper, ZoneBlockPostSniper3, ZoneTankSquare, ZoneWade, ZoneCustoms, ZoneScavBase",
+	"Infiltration Available List": "Boiler Tanks, Customs",
+
+	"ZoneScavBase": [
+
+{
+  "Comment": "bridge road",
+  "Position": [
+    22.4399567,
+    -1.3138622,
+    128.060577
+  ],
+  "Rotation": 198.363739,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Customs",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "railway se",
+  "Position": [
+    -144.339035,
+    0.4612329,
+    48.09517
+  ],
+  "Rotation": 187.5486,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Customs",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "crossroads",
+  "Position": [
+    -333.1534,
+    -0.466997683,
+    -83.38944
+  ],
+  "Rotation": 180.6257,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Customs",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "trailer park",
+  "Position": [
+    -335.457062,
+    0.9378181,
+    -208.16716
+  ],
+  "Rotation": 57.9959641,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Customs",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "ruaf",
+  "Position": [
+    -13.7495337,
+    -0.06593436,
+    -140.7207
+  ],
+  "Rotation": 352.3784,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Customs",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "crack",
+  "Position": [
+    59.55276,
+    1.10392165,
+    -176.737244
+  ],
+  "Rotation": 351.616638,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Customs",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "old gas",
+  "Position": [
+    309.418243,
+    2.29468632,
+    -200.234711
+  ],
+  "Rotation": 353.522552,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Boiler Tanks",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "zb-012",
+  "Position": [
+    458.579041,
+    -2.68441749,
+    -111.4931
+  ],
+  "Rotation": 98.7022552,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Boiler Tanks",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "zb-011",
+  "Position": [
+    621.668457,
+    -2.589046,
+    -126.6661
+  ],
+  "Rotation": 98.60811,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Boiler Tanks",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "blockpost",
+  "Position": [
+    651.1364,
+    -0.3384057,
+    -26.18527
+  ],
+  "Rotation": 276.405884,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Boiler Tanks",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "military cp",
+  "Position": [
+    654.442566,
+    0.534098268,
+    127.7105
+  ],
+  "Rotation": 190.218964,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Boiler Tanks",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "military railroad",
+  "Position": [
+    492.7269,
+    2.61398172,
+    221.4891
+  ],
+  "Rotation": 206.033356,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Boiler Tanks",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "car",
+  "Position": [
+    179.729446,
+    -1.67822325,
+    213.957809
+  ],
+  "Rotation": 211.379562,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Customs",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "zb-013",
+  "Position": [
+    198.969986,
+    -2.81965113,
+    -145.679657
+  ],
+  "Rotation": 345.1624,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Boiler Tanks",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+}
+]
+}

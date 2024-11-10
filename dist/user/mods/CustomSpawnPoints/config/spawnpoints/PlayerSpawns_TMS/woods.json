@@ -1,0 +1,127 @@
+{
+  "SpawnZone Available List": "ZoneClearVill, ZoneHouse, ZoneScavBase2, ZoneWoodCutter, ZoneBigRocks, ZoneRoad, ZoneHighRocks, ZoneMiniHouse, ZoneBrokenVill, ZoneRedHouse",
+  "Infiltration Available List": "House, Old Station",
+
+  "ZoneHighRocks": [
+    {
+      "Comment": "Outskirts",
+      "Position": [346.894653, -12.31476, 367.9262],
+      "Rotation": 174.2039,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "House",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "zb-014",
+      "Position": [448.086365, -14.2453852, 66.1205444],
+      "Rotation": 350.8961,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "House",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "ruaf",
+      "Position": [-130.085159, -1.36169612, 415.9139],
+      "Rotation": 211.975479,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "factory gate",
+      "Position": [-360.34845, 0.0180512741, 364.497284],
+      "Rotation": 207.767868,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "un",
+      "Position": [-536.3427, -1.38534427, 285.570648],
+      "Rotation": 80.02545,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "Old Station",
+      "Position": [-540.2326, 7.413183, 158.202255],
+      "Rotation": 86.49439,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "NUn",
+      "Position": [-557.8734, 9.391198, -70.70325],
+      "Rotation": 155.312622,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "north fence",
+      "Position": [-623.938354, 22.9280281, -182.688232],
+      "Rotation": 178.989563,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "zb-016",
+      "Position": [-388.944122, 3.2545867, 10.9813137],
+      "Rotation": 357.164459,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "NE river",
+      "Position": [-635.308533, 13.0036221, -246.242935],
+      "Rotation": 142.000748,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    },
+
+    {
+      "Comment": "CAR",
+      "Position": [-481.7559, 15.0514317, -505.5523],
+      "Rotation": 2.2303946,
+      "Sides": ["All"],
+      "Categories": ["Player"],
+      "Infiltration": "Old Station",
+      "DelayToCanSpawnSec": 3,
+      "ColliderRadius": 0.0
+    }
+  ]
+}

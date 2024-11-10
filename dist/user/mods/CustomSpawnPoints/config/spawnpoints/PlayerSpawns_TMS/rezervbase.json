@@ -1,0 +1,243 @@
+{
+	"SpawnZone Available List": "ZoneRailStrorage, ZonePTOR1, ZonePTOR2, ZoneBarrack, ZoneBunkerStorage, ZoneSubStorage, ZoneSubCommand",
+	"Infiltration Available List": "Common",
+
+	"ZoneBunkerStorage": [
+{
+  "Comment": "railway ne",
+  "Position": [
+    -196.331467,
+    -5.27882051,
+    -117.095268
+  ],
+  "Rotation": 46.640522,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "hole in the wall",
+  "Position": [
+    -259.399963,
+    -5.130945,
+    78.43064
+  ],
+  "Rotation": 130.171738,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "hole in the wall",
+  "Position": [
+    -263.2979,
+    -6.106766,
+    47.2587166
+  ],
+  "Rotation": 72.50176,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "mountain top",
+  "Position": [
+    -82.9811859,
+    22.30099,
+    193.3681
+  ],
+  "Rotation": 165.093292,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "checkpoint fence",
+  "Position": [
+    69.50031,
+    -6.93227673,
+    140.294342
+  ],
+  "Rotation": 227.40509,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "sewer",
+  "Position": [
+    40.4572334,
+    -6.82819366,
+    76.91764
+  ],
+  "Rotation": 238.218109,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "west fence",
+  "Position": [
+    239.717133,
+    -7.078333,
+    -124.112251
+  ],
+  "Rotation": 305.592041,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "west railway",
+  "Position": [
+    227.766617,
+    -6.618283,
+    -167.573532
+  ],
+  "Rotation": 287.4797,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "northw mines",
+  "Position": [
+    96.35678,
+    -7.078334,
+    -244.177261
+  ],
+  "Rotation": 24.5872478,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "nw mines2",
+  "Position": [
+    35.9770126,
+    -7.07283735,
+    -226.8195
+  ],
+  "Rotation": 9.642543,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "pipe",
+  "Position": [
+    -37.4791832,
+    -7.07833052,
+    -181.123764
+  ],
+  "Rotation": 14.8997059,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+	{
+			 "Comment": "d-2",
+      		        "Position": [-116.999077, -18.3659115, 169.5836],
+      		"Rotation": 128.773651,
+			"Sides": ["All"],
+			"Categories": ["Player"],
+			"Infiltration": "Common",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 20.0
+		},
+{
+  "Comment": "scavlands",
+  "Position": [
+    -126.157845,
+    -6.94099236,
+    -147.123184
+  ],
+  "Rotation": 11.1920233,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Common",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+}
+]
+}

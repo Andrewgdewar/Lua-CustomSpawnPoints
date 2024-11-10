@@ -1,0 +1,177 @@
+{
+	"SpawnZone Available List": "Zone_Containers, Zone_Rocks, Zone_Chalet, Zone_Village, Zone_Bridge, Zone_OldHouse, Zone_LongRoad, Zone_DestroyedHouse, Zone_SniperPeak, Zone_Island, Zone_TreatmentContainers, Zone_Blockpost, Zone_RoofContainers, Zone_TreatmentRocks, Zone_TreatmentBeach, Zone_RoofRocks, Zone_RoofBeach, Zone_Hellicopter",
+	"Infiltration Available List": "Tunnel, North",
+
+	"Zone_LongRoad": [
+{
+  "Comment": "car",
+  "Position": [
+    -316.8033,
+    15.1664286,
+    -782.589966
+  ],
+  "Rotation": 79.1523361,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "North",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "industrial",
+  "Position": [
+    -151.286148,
+    10.5115309,
+    -791.6536
+  ],
+  "Rotation": 10.8736954,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "North",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "train",
+  "Position": [
+    8.247732,
+    10.50884,
+    -954.7371
+  ],
+  "Rotation": 356.62027,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "North",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "north cp",
+  "Position": [
+    117.677284,
+    4.6196723,
+    -985.550842
+  ],
+  "Rotation": 348.678345,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "North",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "tunnel",
+  "Position": [
+    -67.57622,
+    6.164521,
+    318.934082
+  ],
+  "Rotation": 99.87762,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Tunnel",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "south road",
+  "Position": [
+    -264.804749,
+    5.94645548,
+    416.831726
+  ],
+  "Rotation": 86.8697357,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Tunnel",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "mountain pass",
+  "Position": [
+    -166.864166,
+    33.8299522,
+    -0.493208945
+  ],
+  "Rotation": 143.093491,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "Tunnel",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "village",
+  "Position": [
+    -268.1795,
+    22.6345062,
+    -106.763542
+  ],
+  "Rotation": 207.370331,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "North",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+},
+
+{
+  "Comment": "p2 shoreline",
+  "Position": [
+    -335.683,
+    10.4701319,
+    -137.020157
+  ],
+  "Rotation": 137.248077,
+  "Sides": [
+    "All"
+  ],
+  "Categories": [
+    "Player"
+  ],
+  "Infiltration": "North",
+  "DelayToCanSpawnSec": 3,
+  "ColliderRadius": 0.0
+}
+]
+}

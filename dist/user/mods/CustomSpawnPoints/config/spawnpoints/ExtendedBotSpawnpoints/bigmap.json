@@ -1,0 +1,1729 @@
+{
+  "SpawnZone Available List": "ZoneBrige, ZoneCrossRoad, ZoneDormitory, ZoneGasStation, ZoneFactoryCenter, ZoneFactorySide, ZoneOldAZS, ZoneSnipeBrige, ZoneSnipeTower, ZoneSnipeFactory, ZoneBlockPost, ZoneBlockPostSniper, ZoneBlockPostSniper3, ZoneTankSquare, ZoneWade, ZoneCustoms, ZoneScavBase",
+  "Infiltration Available List": "Boiler Tanks, Customs",
+
+  "ZoneBrige": [
+    {
+      "Comment": "bridge 1",
+      "Position": [-37.5, 1.9, 4.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "bridge 2",
+      "Position": [-68.7, 1.9, 6.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "bridge 3",
+      "Position": [-100.6, 1.9, 10.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Water pass RUAF - Red Warehouse",
+      "Position": [-89.0, -8.1, -139.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Train next to water pass RUAF - Red Warehouse",
+      "Position": [148.9, 4.8, -171.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Red Warehouse",
+      "Position": [-171.0, 4.5, -106.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Inside red warehouse F2",
+      "Position": [-202.5, 8.4, -95.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside red warehouse 2",
+      "Position": [-178.8, 2.1, -24.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside red warehouse 3",
+      "Position": [-196.4, 2.1, -56.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "inside red warehouse F1",
+      "Position": [-224.7, 2.6, -147.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "water pass metal middle",
+      "Position": [-69.3, -10.3, 43.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "water pass metal red warehouse side",
+      "Position": [-133.1, -0.2, 39.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "train house at bridge",
+      "Position": [-156.4, 3.2, -8.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "near dorms hill",
+      "Position": [80.8, -2.5, 90.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms hill",
+      "Position": [109.6, 7.3, 92.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "tent behind dorms 3F",
+      "Position": [109.0, -1.4, 165.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "car extract 1",
+      "Position": [161.2, -0.1, 217.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "car extract 2",
+      "Position": [237.5, 2.0, 189.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Mechanic Garage near Fortress",
+      "Position": [112.7, 2.8, -104.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Inside Mechanic Garage near Fortress",
+      "Position": [113.5, 2.8, -87.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Small bridge on construction field",
+      "Position": [153.0, 2.6, -137.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Warehouse 17 Extract",
+      "Position": [40.2, 2.6, -84.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse",
+      "Position": [79.9, 6.1, -160.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Crackhouse at Busses",
+      "Position": [81.9, 2.6, -131.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse Entrance",
+      "Position": [82.4, 2.9, -150.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse 2nd Floor",
+      "Position": [88.0, 6.2, -151.1],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneCrossRoad": [
+    {
+      "Comment": "near dorms hill",
+      "Position": [80.8, -2.5, 90.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms hill",
+      "Position": [109.6, 7.3, 92.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "tent behind dorms 3F",
+      "Position": [109.0, -1.4, 165.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "car extract 1",
+      "Position": [161.2, -0.1, 217.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "car extract 2",
+      "Position": [237.5, 2.0, 189.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "tent behind dorms 2F",
+      "Position": [302.9, 5.8, 154.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "tent behind dorms 2F",
+      "Position": [302.9, 5.8, 154.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms - new gas path 1",
+      "Position": [338.7, 8.2, 149.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms - new gas path 2",
+      "Position": [341.7, 6.6, 104.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to broken train 1",
+      "Position": [380.6, 12.1, 158.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to broken train 2",
+      "Position": [399.6, 15.1, 197.1],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 1",
+      "Position": [442.7, 8.3, 197.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 2",
+      "Position": [454.4, 3.3, 160.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 3",
+      "Position": [481.9, 4.2, 208.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 1",
+      "Position": [510.9, 10.2, 171.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 2",
+      "Position": [552.1, 13.2, 170.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 3",
+      "Position": [578.2, 11.7, 148.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "rail bridge 1",
+      "Position": [319.3, 5.7, 0.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "rail bridge 2",
+      "Position": [334.6, 5.7, 52.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress Loot Room",
+      "Position": [189.7, 3.2, -102.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress Loot Room 2",
+      "Position": [205.1, 3.2, -123.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress ZB-013",
+      "Position": [199.5, -1.3, -143.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 1st Floor",
+      "Position": [194.9, 3.2, -119.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 2nd Floor north",
+      "Position": [201.9, 9.2, -99.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 2nd Floor south",
+      "Position": [202.6, 9.2, -143.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "railroad at scav fortress 1",
+      "Position": [185.7, 3.1, -230.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "railroad at scav fortress 2",
+      "Position": [224.1, 2.2, -248.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside old gas railway to scav fortress",
+      "Position": [278.8, 2.6, -203.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneDormitory": [
+    {
+      "Comment": "near dorms hill",
+      "Position": [80.8, -2.5, 90.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms hill",
+      "Position": [109.6, 7.3, 92.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "tent behind dorms 3F",
+      "Position": [109.0, -1.4, 165.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "car extract 1",
+      "Position": [161.2, -0.1, 217.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "car extract 2",
+      "Position": [237.5, 2.0, 189.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "tent behind dorms 2F",
+      "Position": [302.9, 5.8, 154.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "tent behind dorms 2F",
+      "Position": [302.9, 5.8, 154.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms - new gas path 1",
+      "Position": [338.7, 8.2, 149.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms - new gas path 2",
+      "Position": [341.7, 6.6, 104.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to broken train 1",
+      "Position": [380.6, 12.1, 158.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to broken train 2",
+      "Position": [399.6, 15.1, 197.1],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 1",
+      "Position": [442.7, 8.3, 197.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 2",
+      "Position": [454.4, 3.3, 160.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 3",
+      "Position": [481.9, 4.2, 208.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 1",
+      "Position": [510.9, 10.2, 171.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 2",
+      "Position": [552.1, 13.2, 170.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 3",
+      "Position": [578.2, 11.7, 148.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneGasStation": [
+    {
+      "Comment": "tent behind dorms 2F",
+      "Position": [302.9, 5.8, 154.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms - new gas path 1",
+      "Position": [338.7, 8.2, 149.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "dorms - new gas path 2",
+      "Position": [341.7, 6.6, 104.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to broken train 1",
+      "Position": [380.6, 12.1, 158.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to broken train 2",
+      "Position": [399.6, 15.1, 197.1],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 1",
+      "Position": [442.7, 8.3, 197.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 2",
+      "Position": [454.4, 3.3, 160.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "broken train 3",
+      "Position": [481.9, 4.2, 208.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 1",
+      "Position": [510.9, 10.2, 171.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 2",
+      "Position": [552.1, 13.2, 170.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "path to radar hill 3",
+      "Position": [578.2, 11.7, 148.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "radar hill 1",
+      "Position": [485.9, 16.7, 119.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "radar hill 2",
+      "Position": [513.2, 15.6, 103.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "radar hill 3",
+      "Position": [496.9, 16.7, 95.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "road to military base 1",
+      "Position": [548.7, 9.3, 92.1],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "road to military base 2",
+      "Position": [573.0, 12.9, 117.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "road to military base 3",
+      "Position": [640.2, 1.2, 119.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "road to military base 4",
+      "Position": [655.7, 2.1, 124.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "rail bridge 1",
+      "Position": [319.3, 5.7, 0.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "rail bridge 2",
+      "Position": [334.6, 5.7, 52.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneFactoryCenter": [
+    {
+      "Comment": "rail bridge 1",
+      "Position": [319.3, 5.7, 0.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "rail bridge 2",
+      "Position": [334.6, 5.7, 52.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "abandoned railwagon",
+      "Position": [491.0, 7.2, -139.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "near abandoned railwagon",
+      "Position": [428.2, 5.7, -137.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneFactorySide": [],
+
+  "ZoneOldAZS": [
+    {
+      "Comment": "Outside Old Gas near Trains",
+      "Position": [263.9, 2.7, -203.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress Loot Room",
+      "Position": [189.7, 3.2, -102.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress Loot Room 2",
+      "Position": [205.1, 3.2, -123.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress ZB-013",
+      "Position": [199.5, -1.3, -143.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 1st Floor",
+      "Position": [194.9, 3.2, -119.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 2nd Floor north",
+      "Position": [201.9, 9.2, -99.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 2nd Floor south",
+      "Position": [202.6, 9.2, -143.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "railroad at scav fortress 1",
+      "Position": [185.7, 3.1, -230.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "railroad at scav fortress 2",
+      "Position": [224.1, 2.2, -248.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside old gas railway to scav fortress",
+      "Position": [278.8, 2.6, -203.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneSnipeBrige": [],
+
+  "ZoneSnipeTower": [],
+
+  "ZoneSnipeFactory": [],
+
+  "ZoneBlockPost": [
+    {
+      "Comment": "radar hill 1",
+      "Position": [485.9, 16.7, 119.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "radar hill 2",
+      "Position": [513.2, 15.6, 103.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "radar hill 3",
+      "Position": [496.9, 16.7, 95.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "road to military base 1",
+      "Position": [548.7, 9.3, 92.1],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "road to military base 2",
+      "Position": [573.0, 12.9, 117.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "road to military base 3",
+      "Position": [640.2, 1.2, 119.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "road to military base 4",
+      "Position": [655.7, 2.1, 124.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneBlockPostSniper": [],
+
+  "ZoneBlockPostSniper3": [],
+
+  "ZoneTankSquare": [
+    {
+      "Comment": "SCAV Fortress Loot Room",
+      "Position": [189.7, 3.2, -102.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress Loot Room 2",
+      "Position": [205.1, 3.2, -123.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress ZB-013",
+      "Position": [199.5, -1.3, -143.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 1st Floor",
+      "Position": [194.9, 3.2, -119.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 2nd Floor north",
+      "Position": [201.9, 9.2, -99.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 2nd Floor south",
+      "Position": [202.6, 9.2, -143.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "railroad at scav fortress 1",
+      "Position": [185.7, 3.1, -230.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "railroad at scav fortress 2",
+      "Position": [224.1, 2.2, -248.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside old gas railway to scav fortress",
+      "Position": [278.8, 2.6, -203.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Mechanic Garage near Fortress",
+      "Position": [112.7, 2.8, -104.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Inside Mechanic Garage near Fortress",
+      "Position": [113.5, 2.8, -87.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Small bridge on construction field",
+      "Position": [153.0, 2.6, -137.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Warehouse 17 Extract",
+      "Position": [40.2, 2.6, -84.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse",
+      "Position": [79.9, 6.1, -160.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Crackhouse at Busses",
+      "Position": [81.9, 2.6, -131.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse Entrance",
+      "Position": [82.4, 2.9, -150.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse 2nd Floor",
+      "Position": [88.0, 6.2, -151.1],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneWade": [
+    {
+      "Comment": "Water pass RUAF - Red Warehouse",
+      "Position": [-89.0, -8.1, -139.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Train next to water pass RUAF - Red Warehouse",
+      "Position": [148.9, 4.8, -171.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Red Warehouse",
+      "Position": [-171.0, 4.5, -106.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Inside red warehouse F2",
+      "Position": [-202.5, 8.4, -95.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside red warehouse 2",
+      "Position": [-178.8, 2.1, -24.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside red warehouse 3",
+      "Position": [-196.4, 2.1, -56.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "inside red warehouse F1",
+      "Position": [-224.7, 2.6, -147.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "water pass metal middle",
+      "Position": [-69.3, -10.3, 43.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "water pass metal red warehouse side",
+      "Position": [-133.1, -0.2, 39.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "train house at bridge",
+      "Position": [-156.4, 3.2, -8.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Mechanic Garage near Fortress",
+      "Position": [112.7, 2.8, -104.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Inside Mechanic Garage near Fortress",
+      "Position": [113.5, 2.8, -87.9],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Small bridge on construction field",
+      "Position": [153.0, 2.6, -137.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Warehouse 17 Extract",
+      "Position": [40.2, 2.6, -84.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse",
+      "Position": [79.9, 6.1, -160.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Crackhouse at Busses",
+      "Position": [81.9, 2.6, -131.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse Entrance",
+      "Position": [82.4, 2.9, -150.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Crackhouse 2nd Floor",
+      "Position": [88.0, 6.2, -151.1],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneCustoms": [
+    {
+      "Comment": "Water pass RUAF - Red Warehouse",
+      "Position": [-89.0, -8.1, -139.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Train next to water pass RUAF - Red Warehouse",
+      "Position": [148.9, 4.8, -171.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Outside Red Warehouse",
+      "Position": [-171.0, 4.5, -106.7],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "Inside red warehouse F2",
+      "Position": [-202.5, 8.4, -95.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside red warehouse 2",
+      "Position": [-178.8, 2.1, -24.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "outside red warehouse 3",
+      "Position": [-196.4, 2.1, -56.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "inside red warehouse F1",
+      "Position": [-224.7, 2.6, -147.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "water pass metal middle",
+      "Position": [-69.3, -10.3, 43.0],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "water pass metal red warehouse side",
+      "Position": [-133.1, -0.2, 39.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "train house at bridge",
+      "Position": [-156.4, 3.2, -8.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "bridge 1",
+      "Position": [-37.5, 1.9, 4.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "bridge 2",
+      "Position": [-68.7, 1.9, 6.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "bridge 3",
+      "Position": [-100.6, 1.9, 10.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ],
+
+  "ZoneScavBase": [
+    {
+      "Comment": "SCAV Fortress Loot Room",
+      "Position": [189.7, 3.2, -102.2],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress Loot Room 2",
+      "Position": [205.1, 3.2, -123.8],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress ZB-013",
+      "Position": [199.5, -1.3, -143.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 1st Floor",
+      "Position": [194.9, 3.2, -119.4],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 2nd Floor north",
+      "Position": [201.9, 9.2, -99.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "SCAV Fortress 2nd Floor south",
+      "Position": [202.6, 9.2, -143.3],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "railroad at scav fortress 1",
+      "Position": [185.7, 3.1, -230.6],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    },
+    {
+      "Comment": "railroad at scav fortress 2",
+      "Position": [224.1, 2.2, -248.5],
+      "Rotation": 92.26318,
+      "Sides": ["All"],
+      "Categories": ["Bot"],
+      "Infiltration": "",
+      "DelayToCanSpawnSec": 5,
+      "ColliderRadius": 20.0
+    }
+  ]
+}
